@@ -17,4 +17,7 @@ defmodule MyList do
   defp _sum([], total), do: total
   defp _sum([head|tail], total), do: _sum(tail, head+total)
 
+  def my_sum([]), do: 0
+  def my_sum([head|tail]), do: head + my_sum(tail)
+
 end

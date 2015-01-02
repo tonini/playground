@@ -1,3 +1,3 @@
 # My Playground
 
-My personal drills and experiment with different programming languages.
+My personal drills and experiments with different programming languages.
